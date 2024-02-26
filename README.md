@@ -29,8 +29,8 @@
  
   | Project name                                                               |                   GitHub links                                   
   |----------------------------------------------------------------------------|-----------------------------------------------------------------------|
-  | :star:    Проект по UI автоматизации тестирования сайта АО "Тинькофф Банк" |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
-  | :star:    Проект по API автоматизации тестирования сайта Restful-Booker    |   [API_TESTS](https://github.com/le-vi-che/API_project/tree/main)     |  
+  | :star:    Проект по UI автоматизации тестирования сайта АО "Тинькофф Банк" |   [UI_TESTS]()            |  
+  | :star:    Проект по API автоматизации тестирования сайта Restful-Booker    |   [API_TESTS](https://github.com/IlyaLesnikov/QaGuru_Diplom_API)     |  
   | :star:    []                                                               |   [MOBILE_TESTS]()         |  
 
 
