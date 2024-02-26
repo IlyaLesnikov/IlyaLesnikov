@@ -1,10 +1,10 @@
-<h1>👋 Привет, я Елена</h1>
+<h1>👋 Привет, я Илья</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 
 Мои контакты:
 
-<a href = "https://t.me/leviem888"><img width="7%" title="Telegram" src="media/icons8-telegram.svg"></a>   
+<a href = "https://t.me/lialesnikov"><img width="7%" title="Telegram" src="media/icons8-telegram.svg"></a>   
 
 ## :computer: Мои инструменты и технологии
  <p align="center">
@@ -27,11 +27,11 @@
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
 </p>
  
-  |      Project name                                                                |                   GitHub links                                   
-  |--------------------------------------------------------------------------------- |-----------------------------------------------------------------------|
-  |  :star:    Проект UI по автоматизации тестировании сайта АО "Райфайзен Банк"     |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
-  |  :star:      API проект тестирования  сервиса Reqres.in                         |   [API_TESTS](https://github.com/le-vi-che/API_project/tree/main)     |  
-  |  :star:    Проект Mobile автоматизации приложения Wikipedia                      |   [MOBILE_TESTS](https://github.com/le-vi-che/mobile_project)         |  
+  | Project name                                                               |                   GitHub links                                   
+  |----------------------------------------------------------------------------|-----------------------------------------------------------------------|
+  | :star:    Проект по UI автоматизации тестирования сайта АО "Тинькофф Банк" |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
+  | :star:    Проект по API автоматизации тестирования сайта Restful-Booker    |   [API_TESTS](https://github.com/le-vi-che/API_project/tree/main)     |  
+  | :star:    []                                                               |   [MOBILE_TESTS]()         |  
 
 
 
@@ -52,6 +52,6 @@
 
 
 <!---
-le-vi-che/le-vi-che is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IlyaLesnikov/IlyaLesnikov a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
