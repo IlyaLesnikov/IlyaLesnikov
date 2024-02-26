@@ -27,11 +27,11 @@
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
 </p>
  
-  | Project name                                                               |                   GitHub links                                   
-  |----------------------------------------------------------------------------|-----------------------------------------------------------------------|
-  | :star:    Проект по UI автоматизации тестирования сайта АО "Тинькофф Банк" |   [UI_TESTS]()            |  
-  | :star:    Проект по API автоматизации тестирования сайта Restful-Booker    |   [API_TESTS](https://github.com/IlyaLesnikov/QaGuru_Diplom_API)     |  
-  | :star:    []                                                               |   [MOBILE_TESTS]()         |  
+  | Проекты                                                          |                   Ссылки на репозитории                                   
+  |------------------------------------------------------------------|-----------------------------------------------------------------------|
+  | Проект по UI автоматизации тестирования сайта АО "Тинькофф Банк" |   [UI_TESTS]()            |  
+  | Проект по API автоматизации тестирования сайта Restful-Booker    |   [API_TESTS](https://github.com/IlyaLesnikov/QaGuru_Diplom_API)     |  
+  | []                                                               |   [MOBILE_TESTS]()         |  
 
 
 
@@ -40,9 +40,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=le-vi-che&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlyaLesnikov&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=le-vi-che&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlyaLesnikov&theme=solarized_dark)
 
 
 ![]()
