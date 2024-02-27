@@ -27,11 +27,11 @@
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
 </p>
  
-  | Проекты                                                       | Ссылки на репозитории                                          
-  |---------------------------------------------------------------|----------------------------------------------------------------|
-  | Проект по UI автоматизации сайта АО "Тинькофф банк"           | [UI_TESTS](https://github.com/IlyaLesnikov/QaGuru_Diplom_UI)   |  
-  | Проект по API автоматизации тестирования сайта Restful-Booker | [API_TESTS](https://github.com/IlyaLesnikov/QaGuru_Diplom_API) |  
-  |                                                               | ()                                                             |  
+  | Проекты                                                       | Ссылки на репозитории                                                
+  |---------------------------------------------------------------|----------------------------------------------------------------------|
+  | Проект по UI автоматизации сайта АО "Тинькофф банк"           | [UI_TESTS](https://github.com/IlyaLesnikov/QaGuru_Diplom_UI)         |  
+  | Проект по API автоматизации тестирования сайта Restful-Booker | [API_TESTS](https://github.com/IlyaLesnikov/QaGuru_Diplom_API)       |  
+  | Проект по mobile автоматизации тестирования сайта Wikipedia   | [MOBILE_TESTS](https://github.com/IlyaLesnikov/QaGuru_Diplom_Mobile) |  
 
 
 
