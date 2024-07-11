@@ -1,6 +1,6 @@
 <h1>👋 Привет, я Илья</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=FullStack+QC+Engineer Kotlin/Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=FullStack+QC+Engineer+Kotlin/Java)](https://git.io/typing-svg)
 
 Мои контакты:
 
